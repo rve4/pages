@@ -41,4 +41,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### See the page live by going here:
 
-    https://rve4.github.io/pages/
+[https://rve4.github.io/pages/](https://rve4.github.io/pages/)
